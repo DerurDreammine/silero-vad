@@ -55,6 +55,7 @@ speech_timestamps = get_speech_timestamps(
   model,
   return_seconds=True,  # Return speech timestamps in seconds (default is samples)
 )
+print(speech_timestamps)
 ```
 
 <br/>
