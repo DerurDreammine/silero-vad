@@ -3,7 +3,7 @@ from .utils_vad import init_jit_model, OnnxWrapper
 import torch
 torch.set_num_threads(1)
 
-def load_silero_vad(onnx=False, device="auto"):
+def load_silero_vad(onnx=False, device="cpu"):
     device=device.lower()
     if device=="auto": device = "cuda" if torch.cuda.is_available() else "cpu"
     model_name = 'silero_vad.onnx' if onnx else 'silero_vad.jit'
