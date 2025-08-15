@@ -6,8 +6,8 @@
 <h1 align="center">Silero VAD UPDATED BY DERUR</h1>
 <br/>
 
-**Silero VAD** - pre-trained enterprise-grade [Voice Activity Detector](https://en.wikipedia.org/wiki/Voice_activity_detection)
-Support me:  [**Boosty**](https://boosty.to/dreammine)  or  [**Donationalerts**](https://www.donationalerts.com/r/derur_dreammine)
+**Silero VAD** - pre-trained enterprise-grade [Voice Activity Detector](https://en.wikipedia.org/wiki/Voice_activity_detection) 
+Support me:  [**Boosty**](https://boosty.to/dreammine)  or  [**Donationalerts**](https://www.donationalerts.com/r/derur_dreammine) 
 <br/>
 
 <p align="center">
