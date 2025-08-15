@@ -19,7 +19,7 @@ Support me:  [**Boosty**](https://boosty.to/dreammine)  or  [**Donationalerts**]
 
 <h2 align="center">Fast start</h2>
 <br/>
-** Fork add the device setting, but "cuda" is slower than "cpu" (in my situation) **
+Fork add the device setting, but "cuda" is slower than "cpu" (in my situation)
 <br/>
 
 <details>
