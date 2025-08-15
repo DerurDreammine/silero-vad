@@ -13,16 +13,6 @@
   <img src="https://github.com/snakers4/silero-vad/assets/36505480/300bd062-4da5-4f19-9736-9c144a45d7a7" />
 </p>
 
-
-<details>
-<summary>Real Time Example</summary>
-
-https://user-images.githubusercontent.com/36505480/144874384-95f80f6d-a4f1-42cc-9be7-004c891dd481.mp4
-
-Please note, that video loads only if you are logged in your GitHub account. 
-
-</details>
-
 <br/>
 
 <h2 align="center">Fast start</h2>
