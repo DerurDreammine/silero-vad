@@ -19,6 +19,8 @@ Support me:  [**Boosty**](https://boosty.to/dreammine)  or  [**Donationalerts**]
 
 <h2 align="center">Fast start</h2>
 <br/>
+**Fork add the device setting, but "cuda" is slower than "cpu" (in my situation)**
+<br/>
 
 <details>
 <summary>Dependencies</summary>
@@ -50,7 +52,7 @@ If you are planning to run the VAD using solely the `onnx-runtime`, it will run 
 
 ```python3
 from silero_vad import load_silero_vad, read_audio, get_speech_timestamps
-model = load_silero_vad()
+model = load_silero_vad() # onnx=False, device="cpu"
 wav = read_audio('path_to_audio_file')
 speech_timestamps = get_speech_timestamps(
   wav,
